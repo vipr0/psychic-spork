@@ -1,0 +1,7 @@
+{
+    "appPort": "{{APP_PORT}}",
+    "appHost": "{{APP_HOST}}",
+    "apiPrefix": "{{API_PREFIX}}",
+    "redisHost": "{{REDIS_HOST}}",
+    "redisPort": "{{REDIS_PORT}}"
+}
